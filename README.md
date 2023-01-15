@@ -4,7 +4,7 @@
 Door Locker Security System implemented using two ATMega32 Microcontrollers one acting as HMI unit reading user input via Keypad and displaying output via LCD
 Communicates via UART 
 
-to the
+With the
 Second MCU which is acting as Control unit verify user password by comparing the input password with the EEPROM stored password
 
 as well as openning the door incase of success or firing an alarm incase of failure
